@@ -1,4 +1,4 @@
-# NLP of Yelp Reviews for Sentiment Prediction)
+# NLP of Yelp Reviews for Sentiment Analysis
 
 ## Project Overview
 As part of the UofT Data Analytics Bootcamp, the final deliverable was group project in which team members collaborate to synthesize and showcase the various skills learned throughout the intensive 6-month course.
